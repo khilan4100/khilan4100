@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/khilan-mangukiya-8a8096247/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khilan mangukiya" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/khilanmangukiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="khilan4100" height="30" width="40" /></a>
-<a href="https://fb.com/khilan mangukiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khilan mangukiya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100089696689516" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khilan mangukiya" height="30" width="40" /></a>
 <a href="https://instagram.com/khilan_mangukiya_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khilan_mangukiya_" height="30" width="40" /></a>
 </p>
 
